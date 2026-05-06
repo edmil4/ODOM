@@ -1,0 +1,6 @@
+{
+  "name": "Wheels Odometry",
+  "description": "Real-time robotics odometry and path visualization dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
